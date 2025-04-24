@@ -1,0 +1,12 @@
+{
+    "name": "djole08-dev",
+    "version": "1.0.0",
+    "description": "Simple Express app for OpenShift SSL setup",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}  
